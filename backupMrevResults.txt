@@ -1,0 +1,14 @@
+2019-11-14, 08:56:00, ENTERING MARKET ORDER SHORT
+2019-11-14, 08:56:00, Entry Short: 286.61 Stop: 287.37
+2019-11-14, 08:57:00, SELL EXECUTED, Size: -79.00, Price: 286.69, Comm 0.04
+2019-11-14, 08:57:00, Buy stop order created. Ref: 2
+2019-11-14, 09:02:00, BUY EXECUTED, Size: 79.00, Price: 287.45, Comm 0.04
+2019-11-14, 09:02:00, OPERATION PROFIT, GROSS -60.04, NET -60.12
+2019-11-26, 09:08:00, ENTERING MARKET ORDER LONG
+2019-11-26, 09:08:00, Entry Long: 313.53 Stop: 312.73
+2019-11-26, 09:09:00, BUY EXECUTED, Size: 75.00, Price: 313.64, Comm 0.04
+2019-11-26, 09:09:00, Sell stop order created. Ref: 4
+2019-11-26, 09:26:00, SELL EXECUTED, Size: -75.00, Price: 312.84, Comm 0.04
+2019-11-26, 09:26:00, OPERATION PROFIT, GROSS -60.00, NET -60.08
+RESULT: 99879.80599999998
+(('Wins', 0), ('Losses', 2), ('Win Rate', '0.0%'), ('Cents per Win', 0.0), ('Cents per Loss', 6002.0), ('Profit/Loss Ratio', 0.0), ('Trade Expectancy', -0.7795), ('PnL', -120.04))
